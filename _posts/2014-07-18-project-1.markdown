@@ -2,12 +2,12 @@
 layout: default
 modal-id: 1
 date: 2020-08-16
-img: game1.png
-img1: game2.png
-img2: game3.png
+img:Game1.png
+img1:game2.png
+img2:game3.png
 alt: image-alt
 project-date: December 2018
 client: Start Bootstrap
 category: Game Development by Unity
-description: Unity를 활용한 랜덤타워디펜스 게임입니다.
+description: Unity를 활용한 랜덤타워디펜스 게임입니다. 
 ---
