@@ -9,9 +9,9 @@ date: 2020-08-16
 
 img: Game1.png
 
-imgOne: game2.png
+imgOne: gameTwo.png
 
-imgTwo: game3.png
+imgTwo: gameThree.png
 
 alt: image-alt
 
