@@ -7,15 +7,15 @@ date: 2020-08-16
 
 img: Game1.png
 
-img1: game2.png
+imgOne: game2.png
 
-img2: game3.png
+imgTwo: game3.png
 
 alt: image-alt
 
 project-date: December 2018
 
-client: Start Bootstrap
+Usedskill: Unity, Visual Studio, C#, MagicaVoxel, Photoshop
 
 category: Game Development by Unity
 
