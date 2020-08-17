@@ -3,7 +3,7 @@ layout: default
 
 modal-id: 1
 
-title : RandomTowerDefense Game
+title : Random Tower Defense Game
 
 date: 2020-08-16
 
