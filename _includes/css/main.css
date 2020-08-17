@@ -78,6 +78,8 @@ hr.star-primary:after {
 
 .img-centered {
     margin: 0 auto;
+    width : 800;
+    height : 500;  // 수정
 }
 
 header {
