@@ -11,6 +11,7 @@ imgOne: game2.png
 
 imgTwo: game3.png
 
+imgThree : game3.png
 alt: image-alt
 
 project-date: December 2018
