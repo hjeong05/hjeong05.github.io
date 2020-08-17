@@ -3,6 +3,8 @@ layout: default
 
 modal-id: 1
 
+title : RandomTowerDefense Game
+
 date: 2020-08-16
 
 img: Game1.png
@@ -11,7 +13,6 @@ imgOne: game2.png
 
 imgTwo: game3.png
 
-imgThree : game3.png
 alt: image-alt
 
 project-date: December 2018
