@@ -9,10 +9,6 @@ date: 2020-08-16
 
 img: Game1.png
 
-imgOne: gameTwo.png
-
-imgTwo: gameThree.png
-
 alt: image-alt
 
 project-date: December 2018
